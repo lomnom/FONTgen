@@ -1,0 +1,15 @@
+PROBLEM:
+
+https://qwerty.dev/fancy-font-generator/
+script/cursive/handwriting: #PROBLEM!
+¬¦!¡1¹"2£3³$4€%5^6&7{*™8[(±9])°0}_¿-\+=	𝒬Ω𝓆@𝒲Ẃ𝓌ẃℰℰℯℯ́ℛ®𝓇¶𝒯Ŧ𝓉ŧ𝒴𝒴𝓎𝓎́𝒰𝒰𝓊𝓊́ℐℐ𝒾𝒾́𝒪𝒪ℴℴ́𝒫Þ𝓅þ{[}]𝒜𝒜𝒶𝒶́𝒮§𝓈ß𝒟𝒟𝒹ðℱª𝒻đ𝒢ŊℊŋℋĦ𝒽ħ𝒥𝒿𝒦&𝓀ĸℒŁ𝓁ł:;@'~#|¦\|𝒵<𝓏«𝒳>𝓍»𝒞𝒞𝒸𝒸̧𝒱‘𝓋“ℬ’𝒷”𝒩𝒩𝓃𝓃ℳº𝓂µ<×,─>÷. ·?/
+
+bold script/cursive/handwriting: #PROBLEM!
+¬¦!¡1¹"2£3³$4€%5^6&7{*™8[(±9])°0}_¿-\+=	𝓠Ω𝓺@𝓦Ẃ𝔀ẃ𝓔𝓔𝓮𝓮́𝓡®𝓻¶𝓣Ŧ𝓽ŧ𝓨𝓨𝔂𝔂́𝓤𝓤𝓾𝓾́𝓘𝓘𝓲𝓲́𝓞𝓞𝓸𝓸́𝓟Þ𝓹þ{[}]𝓐𝓐𝓪𝓪́𝓢§𝓼ß𝓓𝓓𝓭ð𝓕ª𝓯đ𝓖Ŋ𝓰ŋ𝓗Ħ𝓱ħ𝓙𝓳𝓚&𝓴ĸ𝓛Ł𝓵ł:;@'~#|¦\|𝓩<𝔃«𝓧>𝔁»𝓒𝓒𝓬𝓬̧𝓥‘𝓿“𝓑’𝓫”𝓝𝓝𝓷𝓷𝓜º𝓶µ<×,─>÷. ·?/
+
+https://qwerty.dev/superscript-generator/
+superscript: #PROBLEM!
+¬¦ꜝ¡¹¹"²£³³$⁴€%⁵^⁶&⁷{*™⁸[⁽±⁹]⁾°⁰}_¿⁻\⁺⁼	QΩᵒ̴@WẂʷẃEÉᵉéR®ʳ¶TŦᵗŧYÝʸýUÚᵘúIÍ ͥ íOÓᵒóPÞᵖþ{[}]AÁᵃáS§ˢßDÐᵈðFªᶠđGŊᵍŋHĦʰħJʲK&ᵏĸLŁˡł:;@'~#|¦\|Z<ᶻ«X>ˣ»CÇᶜçV‘ᵛ“B’ᵇ”NNⁿⁿMºᵐµ<×,─>÷. ·?/
+
+https://qwerty.dev/underline-generator/
+https://qwerty.dev/strikethrough-generator/

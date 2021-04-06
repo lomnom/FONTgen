@@ -1,0 +1,45 @@
+appendToStart 
+ooo oooo -> Xooo oooo
+
+appendToEnd 
+ooooooo -> oooooooX
+
+reverse True
+abcdefg -> gfedcba
+
+appendAfterAll 
+oooo ooo -> oXoXoXoX XoXoXoX
+
+appendBetween 
+ooo oooo -> oXoXoX XoXoXoXo
+
+appendToStartOfWord 
+ooooo oooo oo -> Xooooo Xoooo Xoo
+
+appendToEndOfWord 
+ooooo oooo oo -> oooooX ooooX ooX
+
+appendBetweenChar
+ooooo oooo oo -> oXoXoXoXo oXoXoXo oXo 
+
+appendAfterChar
+ooooo oooo oo -> oXoXoXoXo oXoXoXo oXoX
+
+replace: ["a","b"]
+aa a a  a a -> bb b b  b b
+
+replace: ["aϠy","bϠx"]
+aaayyy -> bbbxxx
+
+font: $font
+$font is the chars in def_charset in order, but substituted.
+eg. 𝐚𝐛𝐜𝐝𝐞𝐟𝐠𝐡𝐢𝐣𝐤𝐥𝐦𝐧𝐨𝐩𝐪𝐫𝐬𝐭𝐮𝐯𝐰𝐱𝐲𝐳|𝐀𝐁𝐂𝐃𝐄𝐅𝐆𝐇𝐈𝐉𝐊𝐋𝐌𝐍𝐎𝐏𝐐𝐑𝐒𝐓𝐔𝐕𝐖𝐗𝐘𝐙|𝟏𝟐𝟑𝟒𝟓𝟔𝟕𝟖𝟗𝟎|()<>[]{}|"'|!@#$%^&*,-_=+|\`~,?!. 
+$eg. will make "a" into "𝐚"
+you can use Ϡ to seperate all substitutions from each other in multi-character substitution.
+eg: ɑϠpϠcϠqϠԍϠɻϠმϠμϠᴉϠๅϠĸϠɼϠwϠuϠoϠbϠdϠʁϠƨϠϝϠnϠʌϠʍϠxϠλϠzϠ|ϠⱯϠBϠCϠDϠEϠԷϠҼϠHϠIϠՂϠKϠΓϠWϠИϠOϠbϠ⥀ϠʁϠƧϠꓕϠꓵϠΛϠMϠXϠ⅄ϠZϠ|ϠƖϠ5Ϡ3ϠતϠ૨ϠϱϠ˩Ϡ8ϠმϠ0Ϡ|Ϡ(Ϡ)Ϡ<Ϡ>Ϡ[Ϡ]Ϡ{Ϡ}Ϡ|ϠˌˌϠˌϠ|Ϡ¡Ϡ@Ϡ#Ϡ$Ϡ%Ϡ^Ϡ⅋ϠₓϠˋϠ-Ϡ_Ϡ=Ϡ+Ϡ|Ϡ\Ϡ`Ϡ~ϠˋϠƾϠ¡Ϡ·
+which will make "b" into "p"
+$defCharset=abcdefghijklmnopqrstuvwxyz|ABCDEFGHIJKLMNOPQRSTUVWXYZ|1234567890|()<>[]{}|"'|!@#$%^&*,-_=+|\`~,?!.
+
+all fonts need to be in $user/$folder/
+
+Ϡ is a reserved char
